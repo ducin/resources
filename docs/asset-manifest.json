@@ -1,14 +1,14 @@
 {
-  "main.css": "ducin.github.io/resources/static/css/main.21750243.chunk.css",
-  "main.js": "ducin.github.io/resources/static/js/main.92c06023.chunk.js",
-  "main.js.map": "ducin.github.io/resources/static/js/main.92c06023.chunk.js.map",
-  "static/js/1.82dafdb5.chunk.js": "ducin.github.io/resources/static/js/1.82dafdb5.chunk.js",
-  "static/js/1.82dafdb5.chunk.js.map": "ducin.github.io/resources/static/js/1.82dafdb5.chunk.js.map",
-  "runtime~main.js": "ducin.github.io/resources/static/js/runtime~main.06d6a53f.js",
-  "runtime~main.js.map": "ducin.github.io/resources/static/js/runtime~main.06d6a53f.js.map",
-  "static/media/logo.svg": "ducin.github.io/resources/static/media/logo.5d5d9eef.svg",
-  "static/css/main.21750243.chunk.css.map": "ducin.github.io/resources/static/css/main.21750243.chunk.css.map",
-  "index.html": "ducin.github.io/resources/index.html",
-  "precache-manifest.f62c491075420031cb645273400cdf35.js": "ducin.github.io/resources/precache-manifest.f62c491075420031cb645273400cdf35.js",
-  "service-worker.js": "ducin.github.io/resources/service-worker.js"
+  "main.css": "/resources/static/css/main.21750243.chunk.css",
+  "main.js": "/resources/static/js/main.2bb13e96.chunk.js",
+  "main.js.map": "/resources/static/js/main.2bb13e96.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/resources/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/resources/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/resources/static/js/runtime~main.a1661ad6.js",
+  "runtime~main.js.map": "/resources/static/js/runtime~main.a1661ad6.js.map",
+  "static/media/logo.svg": "/resources/static/media/logo.5d5d9eef.svg",
+  "static/css/main.21750243.chunk.css.map": "/resources/static/css/main.21750243.chunk.css.map",
+  "index.html": "/resources/index.html",
+  "precache-manifest.a1df75c1c66ec276f43597adefa07074.js": "/resources/precache-manifest.a1df75c1c66ec276f43597adefa07074.js",
+  "service-worker.js": "/resources/service-worker.js"
 }

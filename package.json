@@ -2,7 +2,7 @@
   "name": "resources",
   "version": "0.1.0",
   "private": true,
-  "homepage": "ducin.github.io/resources",
+  "homepage": "https://ducin.github.io/resources",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
