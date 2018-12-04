@@ -20,7 +20,8 @@ import {
 
 import {
   DateTypeProvider,
-  LinkProvider
+  LinkProvider,
+  DurationProvider
 } from './formatter'
 
 import './AppGrid.css'
@@ -30,6 +31,7 @@ const columns = [
   // { name: 'Name', title: 'name' },
   { name: 'Title', title: 'title' },
   { name: 'AuthorsFullnames', title: 'author' },
+  { name: 'DurationInMilliseconds', title: 'duration' },
   { name: 'ReleaseDate', title: 'released' },
   { name: 'UpdatedDate', title: 'updated' },
   { name: 'UrlSlug', title: 'link' },
@@ -37,6 +39,7 @@ const columns = [
 const defaultColumnWidths = [
   { columnName: 'Title', width: 300 },
   { columnName: 'AuthorsFullnames', width: 180 },
+  { columnName: 'DurationInMilliseconds', width: 100 },
   { columnName: 'ReleaseDate', width: 100 },
   { columnName: 'UpdatedDate', width: 100 },
   { columnName: 'UrlSlug', width: 160 },
@@ -56,6 +59,9 @@ const AppGrid = () => (
         />
         <LinkProvider
           for={['UrlSlug']}
+        />
+        <DurationProvider
+          for={['DurationInMilliseconds']}
         />
         <SortingState
           defaultSorting={[{ columnName: 'Title', direction: 'asc' }]}
